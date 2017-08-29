@@ -1,0 +1,5 @@
+package com.crypto.dev.bithumb;
+
+public class TickerData {
+
+}
